@@ -1,6 +1,7 @@
 
 
-What's new in  Covid Survey 3.1
+What's new in  Covid Survey 3.1.1
 ______________
 • Recording time for Covid test now directs user to WorkJam instead of MyTime. 
 • Added function to easily share Shortcut. (This function is found under "More")
+• Option to manual update/restore shortcut in preferences
